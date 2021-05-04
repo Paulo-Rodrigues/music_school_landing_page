@@ -23,6 +23,7 @@
     ],
     "rules": {
         "prettier/prettier": "warn",
+        "comma-dangle": ["error", "never"],
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
     }
 }
